@@ -1,3 +1,3 @@
 # GifEXxpertApp
 
-Este es mi repositorio del proyecto de GifEXxpertApp de React 
+Este es mi repositorio del proyecto de GifEXxpertApp de React
